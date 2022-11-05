@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    /*background-color: rgb(90, 91, 92);*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    background-color: black;
+    box-shadow: 3px 3px 5px black;
+    border-radius: 20px;
+}
+
+#unsplashImage{
+    width: 75%;
+    height: 75%;
+    box-shadow: 8px 7px 22px -7px rgba(0,0,0,1);
+}
+
